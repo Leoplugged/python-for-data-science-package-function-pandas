@@ -2,12 +2,14 @@
 Aprofundando estudos sobre Pyton para Data Science, focando em pacotes, funções e Pandas
 
 Apresentação do curso
+
     Instalação e ambiente de desenvolvimento
     A linguagem Python
     Trabalhando com dados
     Primeiro contato com o Pandas
 
 Listas estáticas: Tuplas
+
     Conhecendo as tuplas
     Formas de se criar uma tupla
     Seleções em tuplas
@@ -17,6 +19,7 @@ Listas estáticas: Tuplas
     A função zip()
 
 Mapeando dados: Dicionários
+
     Criando dicionários
     Lista e mapeamentos
     Forma simples de criação de dicionários
@@ -28,6 +31,7 @@ Mapeando dados: Dicionários
     Iterando em dicionários de dicionários
 
 Organização do código: Funções e pacotes
+
     Built-in Functions
     Fixando o conhecimento
     Definindo funções sem e com parâmetros
@@ -37,6 +41,7 @@ Organização do código: Funções e pacotes
     Elaborando um pouco mais a nossa função
 
 A biblioteca dos cientistas: Pandas
+
     Estruturas de dados
     O Pandas e suas estruturas de dados
     Criando DataFrames
